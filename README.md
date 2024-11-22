@@ -4,7 +4,7 @@ This repository contains a Jupyter Notebook that performs data cleaning and expl
 
 ## Dataset
 
-The dataset used in this analysis is the Titanic dataset, which is available on Kaggle. It contains information about the passengers who were on board the Titanic, including details such as age, gender, fare, cabin, and survival stat
+The dataset used in this analysis is the Titanic dataset, which is available on Kaggle. It contains information about the passengers who were on board the Titanic, including details such as age, gender, fare, cabin, and survival statu
 
 ## Notebook Overview
 
