@@ -1,4 +1,4 @@
-# Titanic Data Cleaning and 
+# Titanic Data Cleaning and EDA
 
 This repository contains a Jupyter Notebook that performs data cleaning and exploratory data analysis (EDA) on the Titanic dataset from Kaggle. The analysis focuses on investigating inter-variable relationships to uncover patterns and trends within the data. This comprehensive analysis enhances understanding and lays the foundation for informed decision-making in subsequent analytical processes.
 
